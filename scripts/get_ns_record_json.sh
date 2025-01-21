@@ -1,5 +1,6 @@
 #!/bin/bash
 # JSON 파일 경로
+#
 JSON_PATH="JSON_FILE"
 
 # Check if the folder exists
